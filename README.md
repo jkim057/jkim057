@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Josh Kim, a software developer with a background in international logistics and the fine arts.
+I'm Josh, a Full Stack software engineer with a background in international logistics and the fine arts.
 
-From the galleries of fine art to the seas of logistics, my career has taken me into software engineering to explore the building blocks of society. 
-The passion with which I delved into supporting streaming and creative talent has driven me to gain opportunities and learn to code in this time of incredible growth.
+From there, I took that passion and curiosity to General Assembly Software Engineering Immersive where I spent over 700 hours learning an wide variety of skills, from learning languages and technical skills such as Javascript, Python, React.js, Express, Postman, Github and many more. I also gained and developed skills that development teams would need such as version control via Github,  pair coding and pre-coding planning. With these skills, I've built multiple projects that have strengthened my understanding of software development, which you can see in my portfolio.
 
-Check me out on my:
+When I'm not coding, I enjoy spending my time sharpening my reflexes, decision-making, and my short and long-term planning with video games while engaging and encouraging creative talent in the visual arts and in streaming communities. I'm eager to join a team of software engineers to learn more about software development while making use of my wide range of skills.
+
+Check me out below:
 
 - LinkedIn: https://www.linkedin.com/in/josh-kim-dev/
 - Portfolio : https://josh-kim-portfolio.herokuapp.com/
