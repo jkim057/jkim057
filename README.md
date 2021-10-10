@@ -6,7 +6,7 @@ From there, I took that passion and curiosity to General Assembly Software Engin
 
 When I'm not coding, I enjoy spending my time sharpening my reflexes, decision-making, and my short and long-term planning with video games while engaging and encouraging creative talent in the visual arts and in streaming communities. I'm eager to join a team of software engineers to learn more about software development while making use of my wide range of skills.
 
-Check me out below:
+Feel free to check me out below:
 
 - LinkedIn: https://www.linkedin.com/in/josh-kim-dev/
 - Portfolio : https://josh-kim-portfolio.herokuapp.com/
