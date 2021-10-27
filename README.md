@@ -9,7 +9,7 @@ When I'm not coding, I enjoy spending my time sharpening my reflexes, decision-m
 Feel free to check me out below:
 
 - LinkedIn: https://www.linkedin.com/in/josh-kim-dev/
-- Portfolio : https://josh-kim-portfolio.herokuapp.com/
+- Portfolio : https://jkim057.github.io/
 
 <!--
 **jkim057/jkim057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
